@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+
+<!--........................queryEmp.jsp...................................-->
+body
+	{
+	 background-image:url(../img/content_bg.png);
+	 background-repeat:no-repeat;
+	}
+table
+  {
+    width:100%;
+	border:1px black solid;
+	border-collapse:collapse;
+    }
+.tabStyle tr th,.tabStyle tr td
+       {
+       	 border:1px black solid;
+		 text-align: center;
+	   }
+.wd{
+	width:10%;
+}
+.tab input,.tab select
+	   {
+	    text-align: center;
+	   	width:100%;
+	    background:transparent; 
+	   	border:none;
+	   }
+.cb{
+	margin-left: 1px;
+}
+tfoot a{
+	text-decoration:none;
+}
+.showStyle{
+	   	border:1px black solid;
+	    background:white;
+}
+.checkbox{
+	width:100%;
+	margin-left:1px;
+}
+.tdStyle{
+	width:100%;
+	margin:0px;
+	text-align:center;
+}
+.padd{
+	padding:0px;
+}
+.inputStyle{
+	text-align:center;
+	width:100%;
+}
+<!--........................queryEmp.jsp...................................-->
